@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Architecture",
+    "occupation": "(Ton occupation ici)",
+    "description": "Voici votre description. Utilisez-la pour décrire ce que vous faites ou ce que vous jugez le plus approprié de décrire à un client potentiel.",
+    "image": "ragnar.jpg",
+    "bio": "Utilisez cette section biographique comme façon de vous décrire et de dire ce que vous faites, quelles technologies vous aimez utiliser ou avec lesquelles vous vous sentez le plus à l’aise, de décrire votre personnalité, ou quoi que ce soit d’autre que vous avez envie de mettre dedans.",
+    "contactmessage": "Laissez moi ici votre message",
+    "email": "tonemailici@gmail.com",
+    "phone": "06-...-",
+    "address": {
+      "street": "(Ton adresse)",
+      "city": "(Ta ville)",
+      "state": "(Ton departement)",
+      "zip": "(Code postal)"
+    },
+    "website": "http://www.dotcom-network.fr",
+    "resumedownload": "http://www.dotcom-network.fr",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Là c'est un test pour les compétences je l'ai donc fait avec les miennes mais on peut le faire avec les votre bien entendu",
+    "education": [
+      {
+        "school": "Université?",
+        "degree": "Masters dans l'architecture",
+        "graduated": "Avril 2011",
+        "description": "Description ici"
+      },
+      {
+        "school": "Avant?",
+        "degree": "Je sais pas",
+        "graduated": "Quand?",
+        "description": "Description ici"
+      }
+    ],
+    "work": [
+      {
+        "company": "Mon boulot",
+        "title": "Mon grade  ",
+        "years": "La date",
+        "description": "Description ici"
+      },
+      {
+        "company": "Ancien boulot",
+        "title": "Mon grade",
+        "years": "La date",
+        "description": "Description ici"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "DOTCOM",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "Capture.PNG",
+        "url": "https://www.dotcom-network.fr"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "J'ai horreur des gens qui parlent pendant que je les interromps.",
+        "user": "Guy Bedos"
+      },
+      {
+        "text": "L'architecture, c'est ce qui fait les belles ruines.",
+        "user": "Auguste Perret"
+      }
+    ]
+  }
+}
